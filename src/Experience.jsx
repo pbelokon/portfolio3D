@@ -43,7 +43,10 @@ export default function Experience() {
               position={[0, 1.56, -1.4]}
               rotation-x={-0.256}
             >
-              <iframe src="https://www.pbelokon.com/" frameborder="0"></iframe>
+              <iframe
+                src="https://portfolio-chi-ten-14.vercel.app/"
+                frameborder="0"
+              ></iframe>
             </Html>
           </primitive>
           <Text
